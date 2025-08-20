@@ -52,11 +52,12 @@ Serverless event-driven project with observability & CI/CD pipelines.
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tushar-mehmi/](https://www.linkedin.com/in/tushar-work/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-work/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Tushar95)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-👨‍💻-orange)](#)  
 
 ---
 
 ✨ *“Code should not only work — it should scale, perform, and inspire.”*  
+
 
