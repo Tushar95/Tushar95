@@ -26,22 +26,6 @@ Currently on a career break to **level up with advanced AWS, DevOps, and FAANG-l
 
 ---
 
-## 🚀 Highlight Projects  
-
-🔹 **Enterprise Microservice Project**  
-Scalable 3-tier AWS architecture with autoscaling, IaC, load testing, and payment gateway integration.  
-👉 [View Repository](#)  
-
-🔹 **Task Manager App (React + Spring Boot)**  
-Full-stack project showcasing modern React patterns, testing, and subscription model integration.  
-👉 [View Repository](#)  
-
-🔹 **AWS Lambda + SQS Integration**  
-Serverless event-driven project with observability & CI/CD pipelines.  
-👉 [View Repository](#)  
-
----
-
 ## 📈 What I’m Up To  
 - 🌱 Practicing FAANG-level coding patterns (LeetCode, hackathons)  
 - 📖 Learning advanced AWS Solution Architect & Kubernetes  
@@ -54,10 +38,10 @@ Serverless event-driven project with observability & CI/CD pipelines.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-work/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Tushar95)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-👨‍💻-orange)](#)  
 
 ---
 
 ✨ *“Code should not only work — it should scale, perform, and inspire.”*  
+
 
 
